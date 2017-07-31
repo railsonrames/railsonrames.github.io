@@ -1,0 +1,63 @@
+#caixa-mes {
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+#cabecalho-tabela {
+    font-weight: bold;
+    padding: 2px;
+    padding-top: 5px;
+}
+body {
+    font-family: "Arial";
+}
+
+#vazio {
+    background-color: beige;
+}
+
+#ferias {
+    background-color: gold;
+    font-weight: bold;
+    text-align: center;
+}
+
+#abono {
+    background-color: blue;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+
+#atestado {
+    background-color: red;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+
+#reuniaoex {
+    background-color: green;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+
+#treinamento {
+    background-color: grey;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+
+#seminario {
+    background-color: cadetblue;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+
+.teste {
+    background-color: red;
+}
