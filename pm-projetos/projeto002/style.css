@@ -1,3 +1,8 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
 body {
     background-color: #e6e6e6;
     font-family: 'Open Sans', sans-serif;
@@ -7,6 +12,7 @@ body {
     background-color: #ffffff;
     border-radius: 2px;
     margin: 10px;
+    padding-bottom: 10px;
     margin-top: 17px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
@@ -26,14 +32,6 @@ body {
     padding: 10px;
 }
 
-h2 {
-    color: #b5000d;
-    padding: 10px;
-    margin-top: -10px;
-    margin-bottom: -10px;
-    font-size: 18px;
-}
-
 p {
     padding: 10px;
     color: #333333;
@@ -42,10 +40,20 @@ p {
     margin-bottom: -10px;
 }
 
-img {
-    display: block;
+#cartao a {
+    text-decoration: none;
 }
 
-a {
+#cartao img {
+    border-radius: 2px 2px 0px 0px;
+}
+
+.texto a {
     text-decoration: none;
+}
+
+.texto h2 {
+    color: #b5000d;
+    font-size: 26px;
+    padding: 10px;
 }
