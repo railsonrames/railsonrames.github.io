@@ -35,7 +35,7 @@ body {
 
 input[type=email], input[type=password] {
     color: white;
-    border: none;
+    border: -1px;
     border-bottom: 1px solid white;
     background-color: #745cc1;
     padding: 30px;
