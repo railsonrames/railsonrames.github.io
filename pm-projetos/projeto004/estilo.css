@@ -26,6 +26,15 @@ li.concluido:hover {
     background-color: #52be7f;
 }
 
+li.pendente {
+    background-color: rgba(74, 73, 74, 0.8);
+    background-image: url(pendente.png);
+}
+
+li.pendente:hover {
+    background-color: #4a4a4a;
+}
+
 a {
     color: #fff;
     text-decoration: none;
