@@ -1,3 +1,9 @@
+---
+title: "Referência para o meu VSTS"
+layout: post
+date: 2017-10-09 01:30:00 -0300
+---
+
 Roteiro
 
 - Criar projeto Web API
