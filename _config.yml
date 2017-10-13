@@ -1,23 +1,23 @@
 # Site Settings
-title: Jekflix | A theme for Jekyll
+title: Railson Ramés | Website
 email: railson.rames@gmail.com
-description: Some text about your blog.
+description: Minha página web, um ponto de compartilhamento
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://railson.pro/jekflix-template" # the base hostname & protocol for your site
+url: "http://railson.pro" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
-username: Jekflix
-user_description: Some text about you.
+username: Railson
+user_description: Programeiro, banqueiro e de vez em quando analista de T.I.
 disqus_username: disqus_username
 
 # Social Media
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
+github_username: centrinobr
+facebook_username: railson.rames
+twitter_username: centrinobr
+instagram_username: centrinobr
+linkedin_username: railson
 medium_username: medium_username
 
 # Build settings
@@ -32,11 +32,11 @@ gems:
 # Links to include in menu navigation
 # For external links add external: true
 links:
-  - title: Home
+  - title: Início
     url: /
-  - title: About
+  - title: Sobre
     url: /about/
-  - title: Contact
+  - title: Contato
     url: /contact/
 
 # Exclude my node related stuff
