@@ -18,13 +18,15 @@ email: railson.rames@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Oi, sou Railson Ramés programador e banqueiro nas horas vagas, bem vindo ao meu site, espero que possa ajudar e se não tiver algo que procure aqui me mande um e-mail, tá aqui do lado.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://railson.pro" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: centrinobr
 github_username:  centrinobr
 
+username: Railson Ramés
+
 # Build settings
 markdown: kramdown
-theme: jekflix
+theme: minima
 gems:
   - jekyll-feed
 
