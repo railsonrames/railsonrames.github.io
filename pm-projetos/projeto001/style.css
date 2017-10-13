@@ -1,0 +1,32 @@
+h1 {
+    font-family: "Arial";
+    font-weight: bold;
+    text-align: center;
+    margin: inherit
+}
+
+h2 {
+    font-family: "Arial";
+    text-transform: uppercase;
+    text-align: center;
+    margin: inherit;
+}
+
+li {
+    background-color: #9b59b6;
+    color: white;
+    font-family: "Arial";
+    padding: 12px;
+    margin: 12px;
+    font-size: 18px;
+    list-style: none;
+}
+
+ul {
+    margin: auto;
+    padding: inherit;
+}
+
+body {
+    background-color: #ecf0f1;
+}
