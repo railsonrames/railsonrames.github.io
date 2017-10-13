@@ -24,7 +24,7 @@ github_username:  centrinobr
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekflix
 gems:
   - jekyll-feed
 
