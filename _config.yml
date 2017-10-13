@@ -1,43 +1,43 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: Railson Ramés Webpage
+# Site Settings
+title: Jekflix | A theme for Jekyll
 email: railson.rames@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Oi, sou Railson Ramés programador e banqueiro nas horas vagas, bem vindo ao meu site, espero que possa ajudar e se não tiver algo que procure aqui me mande um e-mail, tá aqui do lado.
+description: Some text about your blog.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://railson.pro" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: centrinobr
-github_username:  centrinobr
+url: "http://railson.pro/jekflix-template" # the base hostname & protocol for your site
+google_analytics: "UA-XXXXXXXX-X"
 
-username: Railson Ramés
+# User Settings
+username: Jekflix
+user_description: Some text about you.
+disqus_username: disqus_username
+
+# Social Media
+# Remove the item if you don't need it
+github_username: github_username
+facebook_username: facebook_username
+twitter_username: twitter_username
+instagram_username: instagram_username
+linkedin_username: linkedin_username
+medium_username: medium_username
 
 # Build settings
 markdown: kramdown
-theme: minima
-gems:
-  - jekyll-feed
+highlighter: rouge
+permalink: /:title/
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# Plugins
+gems:
+  - jemoji
+
+# Links to include in menu navigation
+# For external links add external: true
+links:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Contact
+    url: /contact/
+
+# Exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules']
