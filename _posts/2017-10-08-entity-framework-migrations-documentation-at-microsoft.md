@@ -1,6 +1,7 @@
 ---
 title: "Entity Framework - Migrations documentation at Microsoft Developer Network"
 layout: post
+image: '2017-10-08-entity-framework-migrations-documentation-at-microsoft.md'
 date: 2017-10-08 16:00:00 -0300
 ---
 
