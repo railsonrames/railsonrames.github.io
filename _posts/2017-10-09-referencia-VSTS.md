@@ -1,6 +1,7 @@
 ---
 title: "Referência para o meu VSTS"
 layout: post
+image: 'https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAA1oAAAAJDFmNWM3OGJiLTlhNmItNGYzMS1iODliLWU3MDdiNGVlZDA0Yw.png'
 date: 2017-10-09 01:30:00 -0300
 ---
 
