@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About
+title: Sobre mim
 description: Some description.
 permalink: /about/
 ---
 
-<img itemprop="image" class="img-rounded" src="http://ap.imagensbrasil.org/images/2017/10/13/16425962_1363578007028078_3393532110574117113_n.jpg" alt="Railson">
+<img itemprop="image" class="img-rounded" src="http://ap.imagensbrasil.org/images/2017/10/13/16425962_1363578007028078_3393532110574117113_n85133d2b34878cb7.jpg" alt="Railson">
 
 ## Sobre o autor
 
