@@ -2,6 +2,7 @@
 title: "Roteiro para o WebApi ASP.NET MVC"
 layout: post
 image: 'http://www.ryadel.com/wp-content/uploads/2016/02/logo-aspnetmvc.png'
+category: 'Roteiro'
 tags:
 - C#
 - ASP.NET MVC
