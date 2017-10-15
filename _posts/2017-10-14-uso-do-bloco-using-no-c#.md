@@ -43,7 +43,7 @@ Como isso acontece?
 
 Se formos nas definições da classe SqlConnection, iremos ver que a mesma herda de DbConnection que por sua vez implementa a interface IDisposable; por isso conseguimos utilizá-la no bloco using.
 
-```
+```csharp
 using System;
 using System.Collections.Generic;
 using System.Linq;
