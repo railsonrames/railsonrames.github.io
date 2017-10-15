@@ -1,6 +1,9 @@
 ---
 title: "Este é o meu blog"
 layout: post
+image: 'http://firebrandtalent.com/wp-content/uploads/Dollarphotoclub_89104027_opt.jpg'
+tags:
+- Start
 date: 2017-07-13 16:00:00 -0300
 ---
 

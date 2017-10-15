@@ -1,7 +1,10 @@
 ---
 title: "Entity Framework - Migrations documentation at Microsoft Developer Network"
 layout: post
-image: '2017-10-08-entity-framework-migrations-documentation-at-microsoft.md'
+image: 'https://xamdev.ru/wp-content/uploads/2017/02/EntityFrameworkLogo-770x360.png'
+tags:
+- C#
+- Entity Framework
 date: 2017-10-08 16:00:00 -0300
 ---
 

@@ -1,7 +1,11 @@
 ---
 title: "Roteiro para o WebApi ASP.NET MVC"
 layout: post
-image: '2017-10-09-roteiro-web-api-aspnetmvc.md'
+image: 'http://www.ryadel.com/wp-content/uploads/2016/02/logo-aspnetmvc.png'
+tags:
+- C#
+- ASP.NET MVC
+- Roteiro
 date: 2017-10-09 01:30:00 -0300
 ---
 

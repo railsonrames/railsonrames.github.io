@@ -1,6 +1,9 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
+image: 'https://d2vvqscadf4c1f.cloudfront.net/QFIpIiNBR5ygh6UOWMf8_jekyll-logo-820x418.png'
+tags:
+- Jekyll
 date:   2017-07-13 15:35:00 -0300
 categories: jekyll update
 ---
