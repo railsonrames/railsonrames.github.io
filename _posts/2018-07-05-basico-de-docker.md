@@ -30,5 +30,5 @@ Execute os comandos abaixo para permitir e executar o arquivo run;
 ```
 chmod +x run ./run
 ```
-
+ 
 Esse trecho de texto foi retirado na íntegra do portal "Coisa de Programador" e pode ser acessado toda sua extensão em: <http://www.coisadeprogramador.com.br/criando-sua-primeiro-docker-container/>
