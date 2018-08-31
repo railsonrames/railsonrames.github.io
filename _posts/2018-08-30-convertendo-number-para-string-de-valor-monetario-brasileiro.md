@@ -4,11 +4,9 @@ title: "Convertendo number para string de valor monetario brasileiro"
 date: 2018-08-30 17:10:22
 image: 'https://st.depositphotos.com/1757833/1959/i/950/depositphotos_19596239-stock-photo-brazilian-money-background.jpg'
 description: Uma mão na roda para o trabalho do dia a dia
-category: 'Javascript'
+category: 'Code'
 tags:
-- JS
-- Utilidade
-- Front-end
+- JavaScript
 twitter_text:
 introduction: Como formatar um valor number em Javascript para uma string no formato monetário do Brasil
 ---

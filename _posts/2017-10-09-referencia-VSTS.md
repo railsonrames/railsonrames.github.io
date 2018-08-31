@@ -1,7 +1,7 @@
 ---
 title: "Referência para o meu VSTS"
 layout: post
-category: 'Tutorial'
+category: 'Code'
 tags:
 - C#
 - VSTS
