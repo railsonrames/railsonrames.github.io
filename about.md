@@ -5,7 +5,7 @@ description: Some description.
 permalink: /about/
 ---
 
-<img itemprop="image" class="img-rounded" src="http://c1.staticflickr.com/2/1891/43567053065_58d0fdc0c1.jpg" alt="Railson">
+<img itemprop="image" class="img-rounded" style="width: 30%" src="http://c1.staticflickr.com/2/1891/43567053065_58d0fdc0c1.jpg" alt="Railson">
 
 ## Sobre o autor
 
