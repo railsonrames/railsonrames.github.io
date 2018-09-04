@@ -4,11 +4,11 @@ title: "Organização interessante para criação de comando SQL com uma semelha
 date: 2017-10-15 14:26:41
 image: 'https://udemy-images.s3.amazonaws.com/redactor/raw/2017-09-10_01-15-16-cdaa831e40d99a9956059a1c84478419.PNG'
 description:
-category: 'Programação'
+category: 'Code'
 tags:
 - C#
-- Organização
-- Banco de Dados
+- SQL
+- Banco de dados
 twitter_text:
 introduction: Jeito muito interessante que me chamou a atenção por ser muito parecido com o que eu fazia em Java, com StringBuilder
 ---

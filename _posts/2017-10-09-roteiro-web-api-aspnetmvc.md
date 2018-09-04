@@ -1,28 +1,28 @@
 ---
-title: "Roteiro para o WebApi ASP.NET MVC"
+title: "Roteiro para o WebApi e o ASP.NET MVC"
 layout: post
 image: 'http://www.ryadel.com/wp-content/uploads/2016/02/logo-aspnetmvc.png'
-category: 'Roteiro'
+category: 'Code'
 tags:
 - C#
 - ASP.NET MVC
-- Roteiro
+- WebApi
 date: 2017-10-09 01:30:00 -0300
 ---
 
 Roteiro
 
-- Criar projeto Web API
-	Web API
-- Pasta Models
-	Funcionario (id, nome, funcao, turno, horastrabalhadas, valordahora)
-- NuGet EntityFramework
-- Criar pasta DAO
-	FuncionarioContext
-		DbSet<Funcionario>
-- Criar novo banco em App_Data
-	nome.mdf
-- Adicionar connectionStrings
+* Criar projeto Web API
+<br>	Web API
+* Pasta Models
+<br>	Funcionario (id, nome, funcao, turno, horastrabalhadas, valordahora)
+* NuGet EntityFramework
+* Criar pasta DAO
+<br>	FuncionarioContext
+<br>		DbSet<Funcionario>
+* Criar novo banco em App_Data
+<br>	nome.mdf
+* Adicionar connectionStrings
 <connectionStrings>
 
 	<add name="FuncionarioContext" providerName="System.Data.SqlClient"

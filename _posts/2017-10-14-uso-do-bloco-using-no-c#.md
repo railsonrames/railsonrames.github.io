@@ -4,11 +4,9 @@ title: "Uso do bloco using no C#"
 date: 2017-10-14 21:12:26
 image: 'http://ap.imagensbrasil.org/images/2017/10/14/2017-10-14-18_16_18-BDProjeto---Microsoft-Visual-Studio.png'
 description: Entenda neste post como funciona o bloco using da linguagem C# e como o mesmo trabalha em conjunto com a CLR (Common Language Runtime).
-category: 'tutorial'
+category: 'Code'
 tags:
 - C#
-- Método
-- Learning
 twitter_text:
 introduction: Entenda neste post como funciona o bloco using da linguagem C# e como o mesmo trabalha em conjunto com a CLR (Common Language Runtime).
 ---
