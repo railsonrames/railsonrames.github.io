@@ -2,7 +2,7 @@
 layout: post
 title: "Conhecimentos básicos de Docker"
 date: 2018-07-05 00:00:00
-image: 'https://tr1.cbsistatic.com/hub/i/r/2017/03/23/9cf93159-d002-4d3b-b100-c0a49a4a3189/resize/770x/39d767be960faaa34ae565de17219d78/dockernewhero.jpg'
+image: 'http://uploaddeimagens.com.br/images/001/603/658/full/artigo-basico-de-docker.png?1536495299'
 description: Precisei recorrer a consulta depois de muito tempo sem usar Docker e hoje precisei criar um container para montar um ambiente com node.js para um desafio json do curso de web moderno.
 category: 'DevOps'
 tags:

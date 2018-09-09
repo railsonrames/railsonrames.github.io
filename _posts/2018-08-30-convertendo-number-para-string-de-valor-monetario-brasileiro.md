@@ -2,7 +2,7 @@
 layout: post
 title: "Convertendo number para string de valor monetario brasileiro"
 date: 2018-08-30 17:10:22
-image: 'https://st.depositphotos.com/1757833/1959/i/950/depositphotos_19596239-stock-photo-brazilian-money-background.jpg'
+image: 'http://uploaddeimagens.com.br/images/001/603/651/full/artigo-conversao-monetaria.png?1536494741'
 description: Uma mão na roda para o trabalho do dia a dia
 category: 'Code'
 tags:

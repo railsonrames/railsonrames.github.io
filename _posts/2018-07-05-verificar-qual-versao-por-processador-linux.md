@@ -2,7 +2,7 @@
 layout: post
 title: "Verificar a arquitetura da instalação do seu Linux"
 date: 2018-07-05 14:26:41
-image: 'https://udemy-images.s3.amazonaws.com/redactor/raw/2017-09-10_01-15-16-cdaa831e40d99a9956059a1c84478419.PNG'
+image: 'http://uploaddeimagens.com.br/images/001/603/656/full/artigo-verificar-versao-do-linux.png?1536495212'
 description:
 category: 'DevOps'
 tags:

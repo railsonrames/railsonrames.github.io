@@ -5,7 +5,7 @@ category: 'Code'
 tags:
 - C#
 - VSTS
-image: 'https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAA1oAAAAJDFmNWM3OGJiLTlhNmItNGYzMS1iODliLWU3MDdiNGVlZDA0Yw.png'
+image: 'http://uploaddeimagens.com.br/images/001/603/662/full/artig-referencia-ao-vsts.png?1536495745'
 date: 2017-10-09 01:30:00 -0300
 ---
 

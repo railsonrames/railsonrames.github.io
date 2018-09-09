@@ -2,7 +2,7 @@
 layout: post
 title: "Uso do bloco using no C#"
 date: 2017-10-14 21:12:26
-image: 'https://www.alura.com.br/assets/api/cursos/csharp-parte-4-excecoes.svg'
+image: 'http://uploaddeimagens.com.br/images/001/603/660/full/artigo-bloco-csharp.png?1536495531'
 description: Entenda neste post como funciona o bloco using da linguagem C# e como o mesmo trabalha em conjunto com a CLR (Common Language Runtime).
 category: 'Code'
 tags:

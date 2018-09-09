@@ -2,7 +2,7 @@
 layout: post
 title: "Criando chave SSH e adicionando ao repositório do GitHub"
 date: 2018-09-09 09:25:27
-image: 'https://arquivo.devmedia.com.br/cursos/imagem/curso_o-que-e-github_2046.jpg'
+image: 'http://uploaddeimagens.com.br/images/001/603/652/full/artigo-chave-rsa.png?1536494898'
 description: Como criar um par de chaves SSH habilitando um caminho de autenticação entre uma máquina em específico ao GitHub.
 category: 'DevOps'
 tags:

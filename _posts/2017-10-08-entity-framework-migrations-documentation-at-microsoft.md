@@ -1,7 +1,7 @@
 ---
 title: "Entity Framework - Migrations documentation at Microsoft Developer Network"
 layout: post
-image: 'https://xamdev.ru/wp-content/uploads/2017/02/EntityFrameworkLogo-770x360.png'
+image: 'http://uploaddeimagens.com.br/images/001/603/663/full/artigo-dotnet-framework.png?1536495814'
 category: 'Code'
 tags:
 - C#

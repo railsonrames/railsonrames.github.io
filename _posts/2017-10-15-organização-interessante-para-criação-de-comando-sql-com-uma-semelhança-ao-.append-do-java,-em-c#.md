@@ -2,7 +2,7 @@
 layout: post
 title: "Organização interessante para criação de comando SQL com uma semelhança ao .append do Java, em C#"
 date: 2017-10-15 14:26:41
-image: 'https://udemy-images.s3.amazonaws.com/redactor/raw/2017-09-10_01-15-16-cdaa831e40d99a9956059a1c84478419.PNG'
+image: 'http://uploaddeimagens.com.br/images/001/603/659/full/artigo-append-do-string-builder-csharp-e-jav.png?1536495416'
 description:
 category: 'Code'
 tags:
