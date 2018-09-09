@@ -98,6 +98,14 @@ origin  https://github.com/railsonrames/seurepo.github.teste (fetch)
 origin  https://github.com/railsonrames/seurepo.github.teste (push)
 ```
 
+E para finalizar podemos definir a URL para o uso da chave, com o comando:
+
+```
+$ git remote set-url origin git@github.com:seuusuario/repositoriotal.git
+```
+
+Referências ao artigo de [Anderson Gomes](https://medium.com/@andgomes/git-github-evitando-informar-usu%C3%A1rio-e-senha-a-cada-push-para-o-github-d8edbb5c6de4) e a documentação do GitHub que é excelente, pode ser visitada pontualmente a aquilo que foi escrito nesse artigo em [link](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/) e [link](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/).
+
 ########################################
 
 Additionally, you may want to add some keys at session start.
