@@ -2,7 +2,7 @@
 layout: post
 title: "Como mudar a senha padrão do usuário PostgresSQL"
 date: 2018-10-05 14:50:47
-image: 'http://uploaddeimagens.com.br/imagens/artigo-mudar-senha-padrao-postgres-png'
+image: 'http://uploaddeimagens.com.br/images/001/655/368/original/artigo-mudar-senha-padrao-postgres.png?1538761621'
 description: Alterando a senha do usuário postgres.
 category: 'DevOps'
 tags:
