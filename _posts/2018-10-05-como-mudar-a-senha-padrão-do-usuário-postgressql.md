@@ -16,7 +16,7 @@ introduction: Aprendenda como mudar a senha do usuário padrão do Postgres de f
 
 Primeiramente é preciso logar com o usuário postgres na base de dados.
 
-Por padrã a senha é ```postgres```.
+Por padrão a senha é ```postgres```.
 ```
 $ /opt/PostgreSQL/8.4/bin/psql -U postgres -d postgres
 ou no Windows
