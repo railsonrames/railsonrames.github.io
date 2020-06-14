@@ -1,10 +1,10 @@
 # Site Settings
-title: Railson Ramés | Website
+title: Railson's Webpage
 email: railson.rames@gmail.com
-description: Minha página web, um ponto de compartilhamento
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://railson.net" # the base hostname & protocol for your site
-google_analytics: "UA-XXXXXXXX-X"
+description: Personal Webpage
+baseurl: '' # the subpath of your site, e.g. /blog
+url: 'http://railson.net' # the base hostname & protocol for your site
+google_analytics: 'UA-XXXXXXXX-X'
 
 # User Settings
 username: Railson Ramés
